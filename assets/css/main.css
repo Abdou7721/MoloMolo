@@ -8,7 +8,7 @@
 */
 .video-wrapper {
     position: relative;
-    padding-bottom: 56.25%; /* Ratio 16:9 */
+    padding-bottom: 75%; /* Ratio 16:9 */
     height: 0;
     overflow: hidden;
 }
