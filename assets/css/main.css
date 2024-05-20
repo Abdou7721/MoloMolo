@@ -17,7 +17,7 @@
 /* Style pour les petits écrans (mobiles) */
 @media screen and (max-width: 480px) {
     .myVideo {
-        width: 100%;
+        width: 50%;
         height: auto;
     }
 }
